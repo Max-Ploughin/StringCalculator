@@ -13,3 +13,11 @@ An expression can consist of:
 # Input and expected output
 * Input : String containing arithmetic expression
 * Output : evaluation result or null if the expression cannot be evaluated
+
+## Example
+ ![image](https://user-images.githubusercontent.com/82418513/172650162-36f48adc-58e4-4106-bd52-5e41b1434aaf.png)
+ 
+ * Result
+ 
+![image](https://user-images.githubusercontent.com/82418513/172650298-fff00ce2-14c6-43f5-9678-89a9192f0ac9.png)
+
